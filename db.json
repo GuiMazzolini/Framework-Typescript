@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "1a61"
+    },
+    {
+      "id": "4a6e",
+      "name": "new record"
+    },
+    {
+      "id": "6e92",
+      "name": "new record",
+      "age": 0
+    },
+    {
+      "id": "fc45",
+      "name": "new record",
+      "age": 0
+    }
+  ]
+}
